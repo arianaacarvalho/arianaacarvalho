@@ -22,6 +22,6 @@ Moro em Luís Correia - PI 🌐
 
 ## Meus contatos
 
-- Instagram: @arianaacarvalho
+- LinkedIn: https://www.linkedin.com/in/arianaacarvalho
 - GitHub: @arianaacarvalho
 - Email: arianaacarvalho27@gmail.com
