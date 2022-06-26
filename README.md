@@ -16,8 +16,8 @@ Moro em Luís Correia - PI 🌐
 ## Atualmente estudando 
 
 - Git e GitHub 
-- React 
-- JavaScript e TypeScript
+- Node.js 
+- JavaScript
 
 
 ## Meus contatos
