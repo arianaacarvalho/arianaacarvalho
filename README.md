@@ -2,7 +2,7 @@
 
 Olá, eu sou Ariana Carvalho, aluna do curso Staart.
 
-![1655771869436](https://user-images.githubusercontent.com/107724622/174900029-a46cdc78-8225-4d44-a499-09a81b23ebae.png)
+![Avatar Corpo](https://user-images.githubusercontent.com/107724622/201222589-6c96bf38-b735-4557-9499-a82b38f6e717.jpg)
 
 Moro em Parnaíba - PI 🌐
 
