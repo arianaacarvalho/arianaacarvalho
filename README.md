@@ -1,8 +1,8 @@
 # Ariana Carvalho :womens: :capricorn: 
 
-Olá! Meu nome é Ariana mas pode me chamar de Nana. Estou em busca de me encotrar na área de tecnologia. 
+Olá! Meu nome é Ariana, mas pode me chamar de Nana. Estou em busca de me encontrar na área de tecnologia. 
 
-Obtive meu primeiro contato aos 14 anos, me aventurando a contruir uma página web do zero, o que não durou muito tempo. 
+Obtive meu primeiro contato aos 14 anos, me aventurando a construir uma página web do zero, o que não durou muito tempo. 
 
 Aos 19 anos fiz um curso de lógica de programação com VisualG e em seguida o curso de programação em linguagem Java. 
 
